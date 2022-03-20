@@ -22,7 +22,7 @@ li a {
 
 li a.active {
   background-color: #85bfcd;
-  color: white;
+  color: orange;
 }
 
 li a:hover:not(.active) {
